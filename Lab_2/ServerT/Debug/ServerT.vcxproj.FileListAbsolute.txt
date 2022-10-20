@@ -1,0 +1,4 @@
+D:\Nada\ПБСП\Lab_2\ServerT\Debug\ServerT.exe
+D:\Nada\ПБСП\Lab_2\ServerT\Debug\ServerT.pdb
+D:\Nada\ПБСП\Lab_2\ClientT\Debug\ServerT.pdb
+C:\Users\thesi\Desktop\5\ПБСП\Lab_2\ServerT\Debug\ServerT.exe
